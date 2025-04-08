@@ -1,0 +1,12 @@
+POST http://localhost:3000/Reviews
+Content-Type: application/json
+
+    {
+  
+    "username":"Ahmed12",
+    "email":"Ahmed@gmail.com",
+    "company":"Apple",
+    "Device":"Iphone 13 pro max",
+    "Review_Description":"the Iphone is amazing"
+   
+    }

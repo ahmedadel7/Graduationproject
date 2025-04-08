@@ -1,0 +1,7 @@
+POST http://localhost:3000/Admins/signin
+Content-Type: application/json
+
+    {   
+    "username":"Ahmedadel",
+    "password":"12345678"
+    }   

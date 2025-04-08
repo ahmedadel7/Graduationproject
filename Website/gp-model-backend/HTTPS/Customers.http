@@ -1,0 +1,12 @@
+POST http://localhost:3000/Customers/signup
+Content-Type: application/json
+
+    {
+    "name":"Ahmed",
+    "username":"Ahmed123",
+    "email":"Ahmed1@gmail.com",
+    "password":"12345678",
+    "Address":"Bue",
+    "DOB":"19/7/2001",
+    "gender":"Male"
+    }

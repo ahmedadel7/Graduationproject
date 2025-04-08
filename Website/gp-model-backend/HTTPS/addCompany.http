@@ -1,0 +1,9 @@
+POST http://localhost:3000/Companies
+Content-Type: application/json
+
+    {
+    "company_name":"Apple",
+    "Company_Description":"is an American multinational technology company headquartered in Cupertino, California. Apple is the largest technology company by revenue. As of March 2023, Apple is the world's biggest company by market capitalization",
+    "company_Reputation":"Very good company in making devices"
+    
+    }

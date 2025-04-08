@@ -1,0 +1,2 @@
+GET  http://localhost:3000/Customers
+Content-Type: application/json
